@@ -1,0 +1,3 @@
+/home/james/Arduino/Basic_RX/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/james/Arduino/Basic_RX/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/james/Arduino/Basic_RX/cmake-build-debug/CMakeFiles/Basic_RX.dir

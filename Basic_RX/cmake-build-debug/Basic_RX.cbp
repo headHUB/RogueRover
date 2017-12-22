@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Basic_RX"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/james/Arduino/Basic_RX/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/james/Arduino/Basic_RX/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/james/Arduino/Basic_RX/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Basic_RX">
+				<Option output="/home/james/Arduino/Basic_RX/cmake-build-debug/Basic_RX" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/james/Arduino/Basic_RX/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 Basic_RX"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Basic_RX/fast">
+				<Option output="/home/james/Arduino/Basic_RX/cmake-build-debug/Basic_RX" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/james/Arduino/Basic_RX/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 Basic_RX/fast"/>
+					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j2 -f &quot;/home/james/Arduino/Basic_RX/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/james/Arduino/Basic_RX/Basic_RX.hex">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/Basic_RX.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite.cpp">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite.h">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/LICENSE.md">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/README.md">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/Basic_RX/Basic_RX.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/Basic_RX_2Pin/Basic_RX_2Pin.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/Basic_TX/Basic_TX.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/Basic_TX_2Pin/Basic_TX_2Pin.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/Basic_TX_ATtiny84/Basic_TX_ATtiny84.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/Basic_TX_ATtiny85/Basic_TX_ATtiny85.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/Dynamic_RX/Dynamic_RX.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/Dynamic_TX/Dynamic_TX.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/IRQ_ACK_RX/IRQ_ACK_RX.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/IRQ_ACK_TX/IRQ_ACK_TX.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/IRQ_RX/IRQ_RX.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/IRQ_TX/IRQ_TX.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/RX_Tests/RX_Tests.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/RX_Tests/Serial_Output_RX_Separate_CE_CSN.txt">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/RX_Tests/Serial_Output_RX_Shared_CE_CSN.txt">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/Sensor_RX_2Pin/Sensor_RX_2Pin.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/Sensor_TX_ATtiny85_2Pin/Sensor_TX_ATtiny85_2Pin.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/TX_Tests/Serial_Output_TX_Separate_CE_CSN.txt">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/TX_Tests/Serial_Output_TX_Shared_CE_CSN.txt">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/examples/TX_Tests/TX_Tests.ino">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/extras/ATmega328_pinout_small.jpg">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/extras/ATtiny84_pinout_small.png">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/extras/ATtiny85_pinout_small.png">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/extras/ATtiny_pinout.png">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/extras/Two_pin_schematic.png">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/extras/nRF24L01_pinout_small.jpg">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/library.properties">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/src/NRFLite.cpp">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/src/NRFLite.h">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/NRFLite/src/nRF24L01.h">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/nRF24L01.h">
+			<Option target="Basic_RX"/>
+		</Unit>
+		<Unit filename="/home/james/Arduino/Basic_RX/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Basic_RX.dir/NRFLite/src/NRFLite.cpp.o CMakeFiles/Basic_RX.dir/NRFLite.cpp.o  -o Basic_RX 
